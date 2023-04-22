@@ -20,7 +20,7 @@ float ConvertirDolarAPeso(float cantidad){
 	
 	float cantidaddepesos;
 	
-	cantidaddepesos=cantidad*331,37;
+	cantidaddepesos=cantidad*331.37;
 	
 	return cantidaddepesos;
 }
